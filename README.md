@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👯 My superpowers are empathy, perseverance and stakeholder management
 - ⚡ Soccer field is synonymous with happiness for me! I am up for a hike anytime and swimming is my way of working out:-p  
 - 📫 You can reach me on LinkedIn. I am usually quite responsive there: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/adeel-chaudhry/)
+  - [LinkedIn](https://www.linkedin.com/in/adeel-chaudhry/)
 
