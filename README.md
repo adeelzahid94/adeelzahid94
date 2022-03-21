@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :zap: I love to work at the intersection of computer science, design and business. Product Management is the perfect mix
+- :penguin: I love to work at the intersection of computer science, design and business. Product Management is the perfect mix
 - 🌱 My aim is to build products from group up that delight users and bring them value
 - 👯 My superpowers are empathy, perseverance and stakeholder management
 - ⚡ Soccer field is synonymous with happiness for me! I am up for a hike anytime and swimming is my way of working out:-p  
