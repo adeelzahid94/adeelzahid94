@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my profile:tada:! Here is a bit about me:
+Welcome to my profile! Here is a bit about me:
 
 I am pursuing Masters at University of California, Berkeley focusing on Product Management
 
