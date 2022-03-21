@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my profile:tada:! Here is a bit about me:
+
 I am pursuing Masters at University of California, Berkeley focusing on Product Management
 
 - :penguin: I love to work at the intersection of computer science, design and business. Product Management is the perfect mix
