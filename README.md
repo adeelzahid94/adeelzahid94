@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!👋 - This is Adeel
 
 <!--
 **adeelzahid94/adeelzahid94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 - :zap: I love to work at the intersection of computer science, design and business. I have found the perfect mix in Product Management
 - 🌱 My aim is to build products from group up that delight users and bring them value
 - 👯 My superpowers are empathy, perseverance and stakeholder management
+- You can reach me on LinkedIn. I am usually quite responsive there: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/adeel-chaudhry/)
 
