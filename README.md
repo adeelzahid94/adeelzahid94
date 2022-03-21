@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - :zap: I love to work at the intersection of computer science, design and business. I have found the perfect mix in Product Management
 - 🌱 My aim is to build products from group up that delight users and bring them value
 - 👯 My superpowers are empathy, perseverance and stakeholder management
-- You can reach me on LinkedIn. I am usually quite responsive there: 
+- ⚡ Soccer field is synonymous with happiness for me! I am up for a hike anytime and swimming is my way of working out:-p  
+- 📫 You can reach me on LinkedIn. I am usually quite responsive there: 
   - :office: [LinkedIn](https://www.linkedin.com/in/adeel-chaudhry/)
 
