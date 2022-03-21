@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :zap: I love to work at the intersection of computer science, design and business. I have found the perfect mix in Product Management
+- 🌱 My aim is to build products from group up that delight users and bring them value
+- 👯 My superpowers are empathy, perseverance and stakeholder management
+
